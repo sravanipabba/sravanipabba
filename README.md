@@ -1,5 +1,13 @@
 ## :cloud: Aspiring Cloud Engineer
 
+AWS Cloud Engineer | Cloud Support | Linux | AWS
+
+Hi, I'm Sravani 👋
+
+I'm currently developing my AWS Cloud Engineering skills through the Per Scholas AWS re/Start program, with hands-on experience in AWS, Linux, networking, security, automation, and troubleshooting.
+
+I have 8+ years of experience in enterprise technical support and analytics environments, where I have worked with distributed systems, Linux, databases, application servers, cloud technologies, monitoring, and production troubleshooting.
+
 ## Current Focus
 
 **[AWS re/Start](https://aws.amazon.com/training/restart/) @ [Per Scholas](https://perscholas.org/locations/national-capital-region/)**
