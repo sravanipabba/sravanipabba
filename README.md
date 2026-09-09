@@ -2,7 +2,7 @@
 
 ## Current Focus
 
-**[AWS re/Start](https://aws.amazon.com/training/restart/) @ [Per Scholas](https://perscholas.org/locations/new-york/)**
+**[AWS re/Start](https://aws.amazon.com/training/restart/) @ [Per Scholas](https://perscholas.org/locations/national-capital-region/)**
   - Full-time, scenario-based cloud training focused on AWS, Linux, networking, Python, security, automation, databases, and cloud operations.
 
 ## Let's Connect
