@@ -1,3 +1,10 @@
+
+<img width="1536" height="875" alt="ChatGPT Image Sep 18, 2026, 11_09_38 AM" src="https://github.com/user-attachments/assets/f5454bb3-ab87-40c5-8b26-03e0ea198c41" />
+
+
+
+
+
 ## :cloud: Aspiring Cloud Engineer
 
 AWS Cloud Engineer | Cloud Support | Linux | AWS
