@@ -11,9 +11,27 @@ AWS Cloud Engineer | Cloud Support | Linux | AWS
 
 Hi, I'm Sravani 👋
 
-I'm currently developing my AWS Cloud Engineering skills through the Per Scholas AWS re/Start program, with hands-on experience in AWS, Linux, networking, security, automation, and troubleshooting.
+I'm developing my AWS Cloud Engineering skills through the AWS re/Start program at Per Scholas, with hands-on experience in AWS, Linux, networking, security, automation, and troubleshooting.
 
-I have 8+ years of experience in enterprise technical support and analytics environments, where I have worked with distributed systems, Linux, databases, application servers, cloud technologies, monitoring, and production troubleshooting.
+I bring 8+ years of experience in enterprise technical support and analytics environments, working with distributed systems, Linux, databases, application servers, cloud technologies, monitoring, and production troubleshooting. That background in distributed systems and production troubleshooting is what pulled me toward cloud infrastructure — I'm now applying the same problem-solving mindset to AWS.
+
+🎯 Current Focus
+
+AWS re/Start @ Per Scholas Full-time, scenario-based cloud training covering AWS, Linux, networking, Python, security, automation, databases, and cloud operations.
+
+Certification: AWS Certified Cloud Practitioner (in progress)
+
+🧰 Tech Stack
+
+Show Image Show Image Show Image Show Image Show Image Show Image
+
+🚀 Projects
+
+🔐 AWS KMS Data Encryption Lab Implemented encryption at rest and in transit using AWS Key Management Service — created customer-managed keys, applied key policies, and encrypted data across AWS services to meet security best practices. KMS IAM Encryption Security
+
+🛠️ AWS Systems Manager Patch Management Automated OS patching for a fleet of EC2 instances using AWS Systems Manager — built custom patch baselines, organized patch groups, patched Windows Server 2019 at scale, and tracked compliance while troubleshooting failed patch runs. Systems Manager Patch Manager EC2 Windows Server Compliance
+
+💻 AWS re/Start EC2 Fundamentals Provisioned and configured EC2 instances from scratch — covering AMI selection, instance types, security groups, key pairs, and basic networking fundamentals. EC2 Networking Security Groups
 
 ## Current Focus
 
