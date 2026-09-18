@@ -21,10 +21,6 @@ AWS re/Start @ Per Scholas Full-time, scenario-based cloud training covering AWS
 
 Certification: AWS Certified Cloud Practitioner (in progress)
 
-🧰 Tech Stack
-
-Show Image Show Image Show Image Show Image Show Image Show Image
-
 🚀 Projects
 
 🔐 AWS KMS Data Encryption Lab Implemented encryption at rest and in transit using AWS Key Management Service — created customer-managed keys, applied key policies, and encrypted data across AWS services to meet security best practices. KMS IAM Encryption Security
